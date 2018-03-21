@@ -8,11 +8,12 @@ categories: npm eaccess problem
 macOS 기반으로 작성되었습니다.
 
 npm을 설치하고 나서 패키지 설치 중 EACCESS 오류가 나며 진행이 안될 경우가 있다.
+
 이런 경우에 nvm을 이용한 오류 해결 방법을 알아보겠다.
 [npm 공식 문서](https://docs.npmjs.com/getting-started/fixing-npm-permissions)에도 있는 내용이다.
 
 우선 npm을 이미 설치한 상태라면 node의 완전한 제거를 필요로 한다.
-제거 방법은 여기서 확인할 수 있다.
+제거 방법은 [여기](https://gomugom.github.io/how-to-remove-node-from-macos/)서 확인할 수 있다.
 
 완전히 삭제를 진행했다면 본격적으로 nvm을 설치해보자.
 
